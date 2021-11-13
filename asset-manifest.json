@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RaiIweb/testrepo.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/RaiIweb/testrepo.git/static/js/main.a31a76ce.chunk.js",
+    "main.js.map": "/RaiIweb/testrepo.git/static/js/main.a31a76ce.chunk.js.map",
+    "runtime-main.js": "/RaiIweb/testrepo.git/static/js/runtime-main.ddfd2dc8.js",
+    "runtime-main.js.map": "/RaiIweb/testrepo.git/static/js/runtime-main.ddfd2dc8.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/RaiIweb/testrepo.git/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/RaiIweb/testrepo.git/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/RaiIweb/testrepo.git/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/RaiIweb/testrepo.git/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/RaiIweb/testrepo.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/RaiIweb/testrepo.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/RaiIweb/testrepo.git/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/RaiIweb/testrepo.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddfd2dc8.js",
+    "static/js/2.d0eb047a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a31a76ce.chunk.js"
+  ]
+}
